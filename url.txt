@@ -1,0 +1,2 @@
+BACKEND: https://backend-m1p2-casheu.koyeb.app
+FRONTEND: https://huggingface.co/spaces/casheu/Milestone1P2
